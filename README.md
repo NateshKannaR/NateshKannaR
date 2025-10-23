@@ -1,99 +1,96 @@
-<!--
-Futuristic GitHub README for Natesh Kanna R
--->
+<!-- Futuristic GitHub README with dynamic background -->
 
-<!-- 1. HEADER BANNER -->
-<p align="center">
-  <img src="https://placehold.co/1200x300/0A0A0A/00BFFF?text=Natesh+Kanna+R" 
-       alt="Natesh Kanna R | UI & AI Developer" 
-       width="100%" 
-       style="border-radius:12px; filter:drop-shadow(0 0 12px #00BFFF);" />
-</p>
-
-<!-- 2. DYNAMIC TYPING SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+UX+Developer+⚡;Full-Stack+Innovator+💻;Neon+Futuristic+Designs+🌌;Driven+by+Code+and+Creativity+🚀" />
-</p>
-
-<!-- 3. CONNECT ICONS -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/natesh-kanna-r-a97170276" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/NateshKannaR" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48px" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:nateshnkraja@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48px" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/nateshkanna_r" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48px" alt="Instagram" />
-  </a>
-</p>
-
-<!-- 4. ABOUT ME -->
-<div align="center">
-<h3>🧭 About Me</h3>
-<p>
-I'm an Integrated M.Tech CSE student at SKCET, Coimbatore, specializing in building intelligent systems that merge AI-driven logic with modern, human-centric UI design.
-<br /><br />
-🎓 Passionate about building robust backends (<b>Flask</b>, <b>Python</b>) and clean frontends (<b>React</b>, <b>Tailwind</b>).
-<br />
-💡 Experienced in crafting AI-powered tools using <b>LangChain</b> and <b>Groq API</b>.
-<br />
-🚀 My goal is to bridge the gap between complex <b>Artificial Intelligence</b> and intuitive <b>User Experience</b>.
-</p>
+<!-- 1. MOVING NEON BACKGROUND -->
+<div style="position:relative; overflow:hidden; border-radius:12px; width:100%; height:300px; margin-bottom:20px;">
+  <svg width="100%" height="100%">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#00FFFF;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#FF00FF;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#grad1)">
+      <animate attributeName="x" from="-100%" to="100%" dur="15s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+  <h1 align="center" style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); 
+     color:#00FFFF; font-size:48px; text-shadow:0 0 10px #00FFFF, 0 0 20px #FF00FF;">Natesh Kanna R</h1>
 </div>
 
-<!-- 5. TECH STACK CARDS -->
-<h3 align="center">⚙️ My Tech Stack</h3>
-<div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;margin-top:20px;">
+<!-- 2. CONNECT ICONS -->
+<p align="center" style="margin-bottom:10px;">
+  <a href="https://www.linkedin.com/in/natesh-kanna-r-a97170276" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" />
+  </a>
+  <a href="https://github.com/NateshKannaR" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48px" />
+  </a>
+  <a href="mailto:nateshnkraja@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48px" />
+  </a>
+  <a href="https://www.instagram.com/nateshkanna_r" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48px" />
+  </a>
+</p>
+
+<!-- 3. ABOUT ME -->
+<h3 align="center">🧭 About Me</h3>
+<p align="center">
+I'm an Integrated M.Tech CSE student at SKCET, Coimbatore, building intelligent systems that merge AI logic with human-centric UI design.
+<br />
+🎓 Passionate about <b>Flask</b>, <b>Python</b>, <b>React</b>, <b>Tailwind</b>.
+<br />
+💡 Experienced with <b>LangChain</b> and <b>Groq API</b>.
+<br />
+🚀 Bridging the gap between AI and intuitive User Experience.
+</p>
+
+<!-- 4. TECH STACK -->
+<h3 align="center">⚙️ Tech Stack</h3>
+<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
   <!-- Frontend -->
-  <div style="background:#0A0A0A; color:#00BFFF; padding:16px; border-radius:12px; width:180px; text-align:center; box-shadow:0 0 20px #00BFFF; transition:0.3s;" 
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #00FFFF';" 
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #00BFFF';">
+  <div style="background:#0A0A0A; color:#00FFFF; padding:12px; border-radius:12px; width:140px; text-align:center; box-shadow:0 0 15px #00FFFF; transition:0.3s;"
+       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #FF00FF';" 
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px #00FFFF';">
     <h4>🎨 Frontend</h4>
-    <p><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend" /></p>
+    <p><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /></p>
   </div>
 
   <!-- Backend -->
-  <div style="background:#0A0A0A; color:#00BFFF; padding:16px; border-radius:12px; width:180px; text-align:center; box-shadow:0 0 20px #00BFFF; transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #00FFFF';" 
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #00BFFF';">
+  <div style="background:#0A0A0A; color:#00FFFF; padding:12px; border-radius:12px; width:140px; text-align:center; box-shadow:0 0 15px #00FFFF; transition:0.3s;"
+       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #FF00FF';" 
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px #00FFFF';">
     <h4>🗄️ Backend</h4>
-    <p><img src="https://skillicons.dev/icons?i=python,flask,java,cpp,sqlite" alt="Backend" /></p>
+    <p><img src="https://skillicons.dev/icons?i=python,flask,java,cpp,sqlite" /></p>
   </div>
 
   <!-- AI / Data -->
-  <div style="background:#0A0A0A; color:#00BFFF; padding:16px; border-radius:12px; width:180px; text-align:center; box-shadow:0 0 20px #00BFFF; transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #00FFFF';" 
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #00BFFF';">
+  <div style="background:#0A0A0A; color:#00FFFF; padding:12px; border-radius:12px; width:140px; text-align:center; box-shadow:0 0 15px #00FFFF; transition:0.3s;"
+       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #FF00FF';" 
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px #00FFFF';">
     <h4>🧠 AI / Data</h4>
     <p><img src="https://skillicons.dev/icons?i=python,tensorflow,numpy,pandas" /></p>
   </div>
 
   <!-- Tools -->
-  <div style="background:#0A0A0A; color:#00BFFF; padding:16px; border-radius:12px; width:180px; text-align:center; box-shadow:0 0 20px #00BFFF; transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #00FFFF';" 
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #00BFFF';">
+  <div style="background:#0A0A0A; color:#00FFFF; padding:12px; border-radius:12px; width:140px; text-align:center; box-shadow:0 0 15px #00FFFF; transition:0.3s;"
+       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #FF00FF';" 
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px #00FFFF';">
     <h4>🛠️ Tools</h4>
     <p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,kali" /></p>
   </div>
 </div>
 
-<!-- 6. PROJECT CARDS -->
-<h3 align="center">🌟 Featured Projects</h3>
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;margin-top:20px;">
+<!-- 5. FEATURED PROJECTS -->
+<h3 align="center">🌟 Projects</h3>
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
 
-  <!-- Project 1 -->
-  <div style="background:#111; border-radius:12px; width:300px; padding:16px; box-shadow:0 0 15px #00BFFF; transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #00FFFF';" 
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px #00BFFF';">
-    <h3>💬 CrackIt AI</h3>
-    <p>Real-time AI chat platform integrating memory, PDF Q&A, OCR, and TTS using Groq API.</p>
+  <!-- CrackIt AI -->
+  <div style="background:#111; border-radius:12px; width:280px; padding:16px; box-shadow:0 0 20px #00FFFF; transition:0.3s;"
+       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 35px #FF00FF';"
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #00FFFF';">
+    <h4>💬 CrackIt AI</h4>
+    <p>Real-time AI chat platform with memory, PDF Q&A, OCR & TTS.</p>
     <p>
       <img src="https://skillicons.dev/icons?i=python,flask,js" width="24px" />
       <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="24px" />
@@ -101,12 +98,12 @@ I'm an Integrated M.Tech CSE student at SKCET, Coimbatore, specializing in build
     <a href="https://github.com/NateshKannaR/CrackIt-AI" target="_blank">Explore →</a>
   </div>
 
-  <!-- Project 2 -->
-  <div style="background:#111; border-radius:12px; width:300px; padding:16px; box-shadow:0 0 15px #00BFFF; transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #00FFFF';" 
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px #00BFFF';">
-    <h3>🧠 Smart Health</h3>
-    <p>AI-powered disease prediction and real-time health monitoring system.</p>
+  <!-- Smart Health -->
+  <div style="background:#111; border-radius:12px; width:280px; padding:16px; box-shadow:0 0 20px #00FFFF; transition:0.3s;"
+       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 35px #FF00FF';"
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #00FFFF';">
+    <h4>🧠 Smart Health</h4>
+    <p>AI-powered disease prediction & real-time health monitoring system.</p>
     <p>
       <img src="https://skillicons.dev/icons?i=python,flask" width="24px" />
       <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="24px" />
@@ -114,37 +111,9 @@ I'm an Integrated M.Tech CSE student at SKCET, Coimbatore, specializing in build
     <a href="https://github.com/NateshKannaR/Smart-Health-Surveillance-and-Early-Warning-System" target="_blank">Explore →</a>
   </div>
 
-  <!-- Project 3 -->
-  <div style="background:#111; border-radius:12px; width:300px; padding:16px; box-shadow:0 0 15px #00BFFF; transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #00FFFF';" 
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px #00BFFF';">
-    <h3>🧮 CMS</h3>
-    <p>Dynamic College Management System with AI-assisted content summarization & analytics.</p>
-    <p>
-      <img src="https://skillicons.dev/icons?i=react,flask,sqlite,tailwind" width="24px" />
-    </p>
-    <a href="https://github.com/NateshKannaR/CMS" target="_blank">Explore →</a>
-  </div>
-
 </div>
 
-<!-- 7. GITHUB STATS -->
-<h3 align="center">📊 GitHub Analytics</h3>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NateshKannaR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateshKannaR&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NateshKannaR&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=nateshkannar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
-<!-- 8. GITHUB CONTRIBUTION SNAKE -->
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api?username=NateshKannaR&theme=dark" alt="Contribution Grid Snake" />
-</p>
-
-<!-- 9. FOOTER CONNECT -->
+<!-- 6. FOOTER -->
 <h3 align="center">🌐 Let's Connect!</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/natesh-kanna-r-a97170276" target="_blank">
