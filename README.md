@@ -1,81 +1,90 @@
-<!-- Futuristic GitHub README with dynamic background -->
+<!-- Futuristic GitHub README -->
 
-<!-- 1. MOVING NEON BACKGROUND -->
-<div style="position:relative; overflow:hidden; border-radius:12px; width:100%; height:300px; margin-bottom:20px;">
-  <svg width="100%" height="100%">
+<!-- 1. MOVING NEON BANNER -->
+<div style="position:relative; overflow:hidden; border-radius:16px; width:100%; height:320px; margin-bottom:30px; background:#000;">
+  <svg width="100%" height="100%" preserveAspectRatio="none">
     <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#00FFFF;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF00FF;stop-opacity:1" />
+      <linearGradient id="gradNeon" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#00FFFF" />
+        <stop offset="50%" stop-color="#FF00FF" />
+        <stop offset="100%" stop-color="#00FFFF" />
       </linearGradient>
     </defs>
-    <rect width="100%" height="100%" fill="url(#grad1)">
-      <animate attributeName="x" from="-100%" to="100%" dur="15s" repeatCount="indefinite" />
+    <rect width="200%" height="100%" fill="url(#gradNeon)">
+      <animate attributeName="x" from="0%" to="-100%" dur="12s" repeatCount="indefinite"/>
     </rect>
   </svg>
-  <h1 align="center" style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); 
-     color:#00FFFF; font-size:48px; text-shadow:0 0 10px #00FFFF, 0 0 20px #FF00FF;">Natesh Kanna R</h1>
+  <h1 style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%);
+             font-size:50px; color:#0ff; text-shadow:0 0 10px #0ff, 0 0 20px #f0f, 0 0 30px #0ff;
+             animation: pulse 2s infinite alternate; font-family:monospace;">
+    Natesh Kanna R
+  </h1>
 </div>
 
+<style>
+@keyframes pulse {
+  0% { text-shadow:0 0 10px #0ff,0 0 20px #f0f,0 0 30px #0ff; }
+  100% { text-shadow:0 0 20px #0ff,0 0 40px #f0f,0 0 60px #0ff; }
+}
+
+.tech-card, .project-card {
+  background:#0a0a0a; 
+  color:#0ff; 
+  padding:14px; 
+  border-radius:14px; 
+  width:160px; 
+  text-align:center; 
+  box-shadow:0 0 15px #0ff; 
+  transition:0.3s;
+  font-family:monospace;
+}
+.tech-card:hover, .project-card:hover {
+  transform:scale(1.08);
+  box-shadow:0 0 35px #ff00ff;
+}
+</style>
+
 <!-- 2. CONNECT ICONS -->
-<p align="center" style="margin-bottom:10px;">
+<p align="center" style="margin-bottom:15px;">
   <a href="https://www.linkedin.com/in/natesh-kanna-r-a97170276" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" />
   </a>
   <a href="https://github.com/NateshKannaR" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48px" />
+    <img src="https://skillicons.dev/icons?i=github" width="50px" />
   </a>
   <a href="mailto:nateshnkraja@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48px" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="50px" />
   </a>
   <a href="https://www.instagram.com/nateshkanna_r" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48px" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="50px" />
   </a>
 </p>
 
 <!-- 3. ABOUT ME -->
 <h3 align="center">🧭 About Me</h3>
 <p align="center">
-I'm an Integrated M.Tech CSE student at SKCET, Coimbatore, building intelligent systems that merge AI logic with human-centric UI design.
-<br />
-🎓 Passionate about <b>Flask</b>, <b>Python</b>, <b>React</b>, <b>Tailwind</b>.
-<br />
-💡 Experienced with <b>LangChain</b> and <b>Groq API</b>.
-<br />
+I'm an Integrated M.Tech CSE student at SKCET, Coimbatore, building intelligent systems that merge AI logic with human-centric UI design.<br>
+🎓 Passionate about <b>Flask</b>, <b>Python</b>, <b>React</b>, <b>Tailwind</b>.<br>
+💡 Experienced with <b>LangChain</b> and <b>Groq API</b>.<br>
 🚀 Bridging the gap between AI and intuitive User Experience.
 </p>
 
 <!-- 4. TECH STACK -->
 <h3 align="center">⚙️ Tech Stack</h3>
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
-  <!-- Frontend -->
-  <div style="background:#0A0A0A; color:#00FFFF; padding:12px; border-radius:12px; width:140px; text-align:center; box-shadow:0 0 15px #00FFFF; transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #FF00FF';" 
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px #00FFFF';">
+<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:14px;">
+  <div class="tech-card">
     <h4>🎨 Frontend</h4>
     <p><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /></p>
   </div>
-
-  <!-- Backend -->
-  <div style="background:#0A0A0A; color:#00FFFF; padding:12px; border-radius:12px; width:140px; text-align:center; box-shadow:0 0 15px #00FFFF; transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #FF00FF';" 
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px #00FFFF';">
+  <div class="tech-card">
     <h4>🗄️ Backend</h4>
     <p><img src="https://skillicons.dev/icons?i=python,flask,java,cpp,sqlite" /></p>
   </div>
-
-  <!-- AI / Data -->
-  <div style="background:#0A0A0A; color:#00FFFF; padding:12px; border-radius:12px; width:140px; text-align:center; box-shadow:0 0 15px #00FFFF; transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #FF00FF';" 
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px #00FFFF';">
+  <div class="tech-card">
     <h4>🧠 AI / Data</h4>
     <p><img src="https://skillicons.dev/icons?i=python,tensorflow,numpy,pandas" /></p>
   </div>
-
-  <!-- Tools -->
-  <div style="background:#0A0A0A; color:#00FFFF; padding:12px; border-radius:12px; width:140px; text-align:center; box-shadow:0 0 15px #00FFFF; transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px #FF00FF';" 
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px #00FFFF';">
+  <div class="tech-card">
     <h4>🛠️ Tools</h4>
     <p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,kali" /></p>
   </div>
@@ -85,10 +94,7 @@ I'm an Integrated M.Tech CSE student at SKCET, Coimbatore, building intelligent 
 <h3 align="center">🌟 Projects</h3>
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
 
-  <!-- CrackIt AI -->
-  <div style="background:#111; border-radius:12px; width:280px; padding:16px; box-shadow:0 0 20px #00FFFF; transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 35px #FF00FF';"
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #00FFFF';">
+  <div class="project-card">
     <h4>💬 CrackIt AI</h4>
     <p>Real-time AI chat platform with memory, PDF Q&A, OCR & TTS.</p>
     <p>
@@ -98,10 +104,7 @@ I'm an Integrated M.Tech CSE student at SKCET, Coimbatore, building intelligent 
     <a href="https://github.com/NateshKannaR/CrackIt-AI" target="_blank">Explore →</a>
   </div>
 
-  <!-- Smart Health -->
-  <div style="background:#111; border-radius:12px; width:280px; padding:16px; box-shadow:0 0 20px #00FFFF; transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 35px #FF00FF';"
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #00FFFF';">
+  <div class="project-card">
     <h4>🧠 Smart Health</h4>
     <p>AI-powered disease prediction & real-time health monitoring system.</p>
     <p>
