@@ -1,18 +1,18 @@
 <h1 align="center">👋 Hey, I'm Natesh Kanna R</h1>
-<h3 align="center">UI Engineer · AI Developer · Builder of Intelligent Interfaces</h3>
+<h3 align="center">UI Engineer · AI Developer · M.Tech CSE Student at SKCET</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Designing+Smart+User+Experiences+🎨;Building+AI-Driven+Apps+🤖;Merging+Creativity+%2B+Code+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00BFFF&center=true&vCenter=true&width=700&lines=Designing+Smart+User+Experiences+🎨;Building+AI-Driven+Applications+🤖;Merging+Creativity+with+Code+🚀;Exploring+AI%2C+UI+and+Data+Innovation+💡">
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔭 Working on **CrackIt AI**, **CMS**, and **Smart Health Surveillance System**
-- 🌱 Exploring **Groq API, LangChain, LlamaIndex, ChromaDB**
-- 💡 Passionate about blending **beautiful UIs with intelligent backends**
-- 💬 Ask me about **React, Flask, Tailwind, AI app design**
-- 🎯 Mission: To make AI tools feel effortless and human-like
+🎓 I'm **Natesh Kanna R**, a dedicated **Integrated M.Tech Computer Science and Engineering** student at **Sri Krishna College of Engineering and Technology, Coimbatore**.  
+💡 I focus on **building intelligent applications** that merge **AI technologies** with **modern frontend design**.  
+🌱 Currently exploring **LangChain, Groq API, LlamaIndex, and ChromaDB** for AI-driven systems.  
+💬 Ask me about **Flask, React, TailwindCSS, and integrating AI with web apps**.  
+🎯 Goal: To craft seamless digital experiences that feel *human and smart*.
 
 ---
 
@@ -26,15 +26,15 @@
 ### 🚀 Featured Projects
 
 #### 🧩 [Smart Health Surveillance & Early Warning System](https://github.com/NateshKannaR/Smart-Health-Surveillance-and-Early-Warning-System)
-> AI-powered system for detecting and predicting disease outbreaks in real-time.  
-**Tech:** Flask · ML · REST APIs · Data Visualization
+> AI-powered health analytics system for early outbreak detection and risk prediction.  
+**Tech:** Flask · ML · REST APIs · Visualization
 
 #### ⚙️ [CrackIt AI](https://github.com/NateshKannaR/CrackIt-AI)
-> Real-time Flask + Groq chat app with memory, PDF Q&A, OCR, and voice support.  
+> Real-time AI chat app with memory, PDF Q&A, OCR, and TTS — built using Flask and Groq API.  
 **Tech:** Flask · Socket.IO · LangChain · ChromaDB · JS
 
 #### 🧮 [CMS (Content Management System)](https://github.com/NateshKannaR/CMS)
-> Lightweight CMS with integrated AI summarization and analytics.  
+> A fast, responsive CMS with AI-powered summarization and insights.  
 **Tech:** React · Flask · SQLite · Tailwind
 
 ---
@@ -54,12 +54,15 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/natesh-kanna-r-a97170276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" />
+  </a>
+  <a href="https://www.instagram.com/nateshkanna_r" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48px" />
   </a>
   <a href="mailto:nateshnkraja@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="48px" />
   </a>
   <a href="https://github.com/NateshKannaR" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" width="48px" />
   </a>
 </p>
