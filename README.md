@@ -23,16 +23,16 @@
 <!-- 3. CONNECT ICONS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/natesh-kanna-r-a97170276" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" />
   </a>
   <a href="https://github.com/NateshKannaR" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40px" />
+    <img src="https://skillicons.dev/icons?i=github" width="50px" />
   </a>
   <a href="mailto:nateshnkraja@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="50px" />
   </a>
   <a href="https://www.instagram.com/nateshkanna_r" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40px" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="50px" />
   </a>
 </p>
 
@@ -49,13 +49,13 @@ I'm an Integrated M.Tech CSE student at SKCET, Coimbatore, building intelligent 
 <h3 align="center">⚙️ Tech Stack</h3>
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" title="Frontend" width="40px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" title="Frontend" width="60px" style="margin:5px;" />&nbsp;
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=python,flask,java,cpp,sqlite" title="Backend" width="40px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python,flask,java,cpp,sqlite" title="Backend" width="60px" style="margin:5px;" />&nbsp;
   <!-- AI / Data -->
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,numpy,pandas" title="AI/Data" width="40px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,numpy,pandas" title="AI/Data" width="60px" style="margin:5px;" />&nbsp;
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,kali" title="Tools" width="40px" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,kali" title="Tools" width="60px" style="margin:5px;" />
 </p>
 
 <!-- 6. FEATURED PROJECTS -->
@@ -64,23 +64,23 @@ I'm an Integrated M.Tech CSE student at SKCET, Coimbatore, building intelligent 
 <p align="center">
   <b>💬 CrackIt AI</b><br>
   Real-time AI chat platform with memory, PDF Q&A, OCR & TTS.<br>
-  <img src="https://skillicons.dev/icons?i=python,flask,js" width="24px" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="24px" /><br>
+  <img src="https://skillicons.dev/icons?i=python,flask,js" width="36px" style="margin:4px;" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="30px" style="margin:4px;" /><br>
   <a href="https://github.com/NateshKannaR/CrackIt-AI" target="_blank">Explore →</a>
 </p>
 
 <p align="center">
   <b>🧠 Smart Health</b><br>
   AI-powered disease prediction & real-time health monitoring system.<br>
-  <img src="https://skillicons.dev/icons?i=python,flask" width="24px" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="24px" /><br>
+  <img src="https://skillicons.dev/icons?i=python,flask" width="36px" style="margin:4px;" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30px" style="margin:4px;" /><br>
   <a href="https://github.com/NateshKannaR/Smart-Health-Surveillance-and-Early-Warning-System" target="_blank">Explore →</a>
 </p>
 
 <p align="center">
   <b>🧮 CMS</b><br>
   Dynamic Content Management System with AI-assisted content summarization and analytics dashboard.<br>
-  <img src="https://skillicons.dev/icons?i=react,flask,sqlite" width="24px" /><br>
+  <img src="https://skillicons.dev/icons?i=react,flask,sqlite" width="36px" style="margin:4px;" /><br>
   <a href="https://github.com/NateshKannaR/CMS" target="_blank">Explore →</a>
 </p>
 
