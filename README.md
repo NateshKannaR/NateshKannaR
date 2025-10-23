@@ -1,8 +1,9 @@
 <!--
-Hi Natesh! This is your new, enhanced README.
-I've structured it to be more professional and visually appealing.
-I've categorized your skills and added tech-specific badges to your projects.
-This layout is designed to be easily scanned by recruiters.
+Hi Natesh! You wanted "dynamic" and "advanced"—you got it.
+
+This README uses HTML for layout, <details> tags for an interactive UI,
+and a mix of skillicons.dev and shields.io for a rich, graphical project showcase.
+This is designed to be highly scannable and impressive.
 -->
 
 <!-- 1. HEADER & BANNER -->
@@ -12,25 +13,36 @@ This layout is designed to be easily scanned by recruiters.
   <img src="https://placehold.co/1200x300/0A0A0A/00BFFF?text=Natesh+Kanna+R" alt="Natesh Kanna R | UI Engineer & AI Developer" width="100%" />
 </p>
 
-<h1 align="center">
-👋 Hey there, I'm <span style="color:#00BFFF;">Natesh Kanna R</span>
-</h1>
-<h3 align="center">
-UI Engineer · AI Developer · Integrated M.Tech CSE Student
-</h3>
-
 <!-- 2. DYNAMIC TYPING SVG -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI-Enhanced+User+Experiences+🤖;Designing+Human-Centric+Interfaces+🎨;Fusing+Creativity+with+Computation+⚡;Driven+by+Innovation+and+Code+🚀">
 </p>
 
-<!-- 3. ABOUT ME -->
+<!-- 3. TOP-LEVEL CONNECT ICONS -->
+
+<p align="center">
+<a href="https://www.linkedin.com/in/natesh-kanna-r-a97170276" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48px" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/NateshKannaR" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="48px" alt="GitHub" />
+</a>
+&nbsp;
+<a href="mailto:nateshnkraja@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" width="48px" alt="Email" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/nateshkanna_r" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="48px" alt="Instagram" />
+</a>
+</p>
+
+<!-- 4. ABOUT ME -->
 
 <div align="center">
-
 <h3 align="center">🧭 About Me</h3>
-
 <p align="center">
 I'm an Integrated M.Tech CSE student at SKCET, Coimbatore, specializing in building intelligent systems that merge AI-driven logic with modern, human-centric UI design.
 <br />
@@ -41,63 +53,93 @@ I'm an Integrated M.Tech CSE student at SKCET, Coimbatore, specializing in build
 <br />
 🚀 My goal is to bridge the gap between complex <b>Artificial Intelligence</b> and intuitive <b>User Experience</b>.
 </p>
-
 </div>
 
-<!-- 4. ORGANIZED TECH STACK -->
+<!-- 5. INTERACTIVE TECH STACK -->
 
 <h3 align="center">⚙️ My Tech Stack</h3>
-<p align="center">
-Here are the technologies I work with, categorized for clarity:
-</p>
+<p align="center">Click to expand each category and see the technologies I work with.</p>
 
-<table align="center" width="100%">
-<!-- Row 1: Frontend -->
-<tr>
-<td align="center" width="20%">
-<strong>Frontend</strong>
-</td>
-<td align="center">
+<table width="100%" align="center">
+<tr align="center">
+<!-- Frontend -->
+<td width="50%" valign="top">
+<details>
+<summary>
+<strong>🎨 Frontend Development</strong>
+</summary>
+<br />
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills" />
+</p>
+</details>
 </td>
-</tr>
-<!-- Row 2: Backend -->
-<tr>
-<td align="center">
-<strong>Backend</strong>
-</td>
-<td align="center">
+<!-- Backend -->
+<td width="50%" valign="top">
+<details>
+<summary>
+<strong>🗄️ Backend Development</strong>
+</summary>
+<br />
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,java,cpp,sqlite" alt="Backend Skills" />
+</p>
+</details>
 </td>
 </tr>
-<!-- Row 3: Tools & Platforms -->
-<tr>
-<td align="center">
-<strong>Tools & Platforms</strong>
+<tr align="center">
+<!-- AI / Data Science -->
+<td width="50%" valign="top">
+<details>
+<summary>
+<strong>🧠 AI / Data Science</strong>
+</summary>
+<br />
+<p align="center">
+<!-- Using shields.io for libs without official icons -->
+<img src="https://skillicons.dev/icons?i=python,tensorflow,numpy,pandas" alt="AI/ML Skills" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge" alt="LangChain" />
+</p>
+</details>
 </td>
-<td align="center">
+<!-- Tools & Platforms -->
+<td width="50%" valign="top">
+<details>
+<summary>
+<strong>🛠️ Tools & Platforms</strong>
+</summary>
+<br />
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,kali" alt="Tools & Platforms" />
+</p>
+</details>
 </td>
 </tr>
 </table>
 
-<!-- 5. ENHANCED FEATURED PROJECTS -->
+<!-- Graphical Divider -->
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/NateshKannaR/NateshKannaR/main/assets/divider.png" alt="divider" width="80%">
+</p>
+
+<!-- 6. GRAPHICAL FEATURED PROJECTS -->
 
 <h3 align="center">🌟 Featured Projects</h3>
 
-<table align="center" width="100%" cellspacing="0" cellpadding="10">
+<table width="100%" align="center" cellpadding="10" cellspacing="0">
 
 <!-- Project 1: Smart Health -->
 
-<tr valign="top">
+<tr valign="middle">
 <td width="60%">
 <strong>🧠 <a href="https://github.com/NateshKannaR/Smart-Health-Surveillance-and-Early-Warning-System">Smart Health Surveillance & Early Warning System</a></strong>
 <br />
 <p>AI-powered disease prediction and real-time health monitoring system.</p>
 </td>
-<td>
-<!-- Tech Badges for Project 1 -->
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<td width="40%" align="center">
+<img src="https://skillicons.dev/icons?i=python,flask" alt="Flask" />
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 <img src="https://img.shields.io/badge/REST_API-00BFFF?style=for-the-badge" alt="REST API" />
 </td>
@@ -105,15 +147,14 @@ Here are the technologies I work with, categorized for clarity:
 
 <!-- Project 2: CrackIt AI -->
 
-<tr valign="top">
-<td>
+<tr valign="middle">
+<td width="60%">
 <strong>💬 <a href="https://github.com/NateshKannaR/CrackIt-AI">CrackIt AI</a></strong>
 <br />
 <p>Real-time AI chat platform integrating memory, PDF Q&A, OCR, and TTS using Groq API.</p>
 </td>
-<td>
-<!-- Tech Badges for Project 2 -->
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<td width="40%" align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,js" alt="Tech" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
 <img src="https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge" alt="LangChain" />
 <img src="https://img.shields.io/badge/ChromaDB-5540D0?style=for-the-badge" alt="ChromaDB" />
@@ -122,48 +163,52 @@ Here are the technologies I work with, categorized for clarity:
 
 <!-- Project 3: CMS -->
 
-<tr valign="top">
-<td>
+<tr valign="middle">
+<td width="60%">
 <strong>🧮 <a href="https://github.com/NateshKannaR/CMS">College Management System (CMS)</a></strong>
 <br />
-<p>Dynamic CMS with AI-assisted content summarization and analytics dashboard.
-<!-- I've updated this project title based on your prompt! -->
-</p>
+<p>Dynamic CMS with AI-assisted content summarization and analytics dashboard.</p>
 </td>
-<td>
-<!-- Tech Badges for Project 3 -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<td width="40%" align="center">
+<img src="https://skillicons.dev/icons?i=react,flask,sqlite,tailwind" alt="Tech" />
 </td>
 </tr>
 
 </table>
 
-<!-- 6. EXPANDED GITHUB ANALYTICS -->
+<!-- Graphical Divider -->
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/NateshKannaR/NateshKannaR/main/assets/divider.png" alt="divider" width="80%">
+</p>
+
+<!-- 7. DYNAMIC GITHUB ANALYTICS -->
 
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
 <!-- GitHub Stats & Top Languages -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NateshKannaR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Natesh's GitHub Stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateshKannaR&layout=compact&theme=tokyonight&hide_border=true" alt="Natesh's Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NateshKannaR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Natesh's GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateshKannaR&layout=compact&theme=tokyonight&hide_border=true" alt="Natesh's Top Languages" />
 </p>
 <p align="center">
-<!-- Streak Stats -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=NateshKannaR&theme=tokyonight&hide_border=true" alt="Natesh's Streak Stats" />
-<!-- GitHub Trophies -->
-<img width="48%" src="https://github-profile-trophy.vercel.app/?username=nateshkannar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Natesh's GitHub Trophies" />
+<!-- Streak Stats & Trophies -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NateshKannaR&theme=tokyonight&hide_border=true" alt="Natesh's Streak Stats" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=nateshkannar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Natesh's GitHub Trophies" />
 </p>
+
+<!-- 8. DYNAMIC CONTRIBUTION SNAKE -->
+
 <p align="center">
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NateshKannaR&theme=react-dark&hide_border=true" alt="Natesh's Activity Graph" />
+<img src="https://github-contribution-grid-snake.vercel.app/api?username=NateshKannaR&theme=dark" alt="github contribution grid snake animation" />
 </p>
 
-<!-- 7. UPGRADED CONNECT WITH ME (SHIELDS.IO BADGES) -->
+<!-- 9. FOOTER CONNECT SECTION -->
 
-<h3 align="center">🌐 Connect With Me</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/NateshKannaR/NateshKannaR/main/assets/divider.png" alt="divider" width="80%">
+</p>
+<h3 align="center">🌐 Let's Connect!</h3>
 <p align="center">
 Let's build something amazing together!
 <br />
