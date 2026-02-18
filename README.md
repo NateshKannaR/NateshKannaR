@@ -18,22 +18,32 @@ Focused on building production-level AI applications and low-level system enviro
 
 ## Current Major Build
 
-### CrackIt AI
+### BenxOS
 
-A real-time AI chat system engineered with:
+A custom Arch-based Linux environment designed for:
 
-- Groq LLM API integration
-- WebSocket streaming (Flask-SocketIO)
-- Multi-document semantic retrieval (LlamaIndex + ChromaDB)
-- Local OCR pipeline (Tesseract / EasyOCR)
-- Persistent per-user memory (SQLite)
-- PDF ingestion & chunk embedding
-- Token streaming UI rendering
+- Minimal & performance-optimized workflow
+- Manual system configuration & package control
+- pacman + AUR environment management
+- Custom terminal setup & system tuning
+- Kernel-level troubleshooting & debugging
+- Lightweight development-first OS architecture
 
-This is not a demo chatbot —  
-It is a structured AI application with backend memory, document intelligence, and streaming architecture.
+BenxOS is not just an installation —
+It is a controlled Linux ecosystem engineered for AI development and system experimentation.
 
----
+### BenxAI
+
+AI-powered Linux System Assistant designed to:
+
+- Execute terminal commands safely
+- Manage files & directories
+- Monitor system processes
+- Analyze system resources (CPU, Memory, Disk)
+- Automate repetitive tasks
+- Integrate LLM reasoning with shell execution
+
+BenxAI aims to become a full AI-powered Linux control layer capable of managing the entire system environment.
 
 ## Technical Stack
 
