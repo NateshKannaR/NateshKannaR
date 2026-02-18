@@ -5,16 +5,6 @@ Focused on building production-level AI applications and low-level system enviro
 
 ---
 
-## Core Focus Areas
-
-- AI System Architecture
-- Real-time LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases & Semantic Search
-- Linux System Customization
-- Performance-Optimized Backends
-
----
 
 ## Current Major Build
 
@@ -102,12 +92,14 @@ WebSocket-based real-time updates
 
 ---
 
-## Engineering Mindset
+## Core Focus Areas
 
-- I build from scratch.
-- I prefer understanding internals over using abstractions blindly.
-- I focus on architecture, not just UI.
-- I optimize systems for performance and scalability.
+- AI System Architecture
+- Real-time LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases & Semantic Search
+- Linux System Customization
+- Performance-Optimized Backends
 
 ---
 
