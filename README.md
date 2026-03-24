@@ -1,5 +1,9 @@
 # Natesh Kanna R
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&lines=AI+Systems+Engineer;Linux+Systems+Builder;Real-Time+LLM+Developer" />
+</p>
+
 AI Systems Engineer focused on building production-grade systems that combine  
 low-level OS control with LLM-driven intelligence.
 
@@ -98,4 +102,20 @@ GitHub:
 https://github.com/NateshKannaR  
 
 Email:  
-nateshnkraja@gmail.com
+nateshnkraja@gmail.com  
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NateshKannaR&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NateshKannaR/NateshKannaR/output/github-contribution-grid-snake.svg" />
+</p>
