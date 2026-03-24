@@ -1,109 +1,145 @@
-# Natesh Kanna R
+# 🚀 Natesh Kanna R
 
-Integrated M.Tech CSE | AI Systems Developer  
-Focused on building production-level AI applications and low-level system environments.
+### AI Systems Engineer | Linux Builder | Real-Time LLM Architect
 
----
+I design and build **AI-powered systems from scratch** — combining  
+low-level OS control with high-level LLM intelligence.
 
-
-## Current Major Build
-
-### BenxOS
-
-A custom Arch-based Linux environment designed for:
-
-- Minimal & performance-optimized workflow
-- Manual system configuration & package control
-- pacman + AUR environment management
-- Custom terminal setup & system tuning
-- Kernel-level troubleshooting & debugging
-- Lightweight development-first OS architecture
-
-BenxOS is not just an installation —
-It is a controlled Linux ecosystem engineered for AI development and system experimentation.
-
-### BenxAI
-
-AI-powered Linux System Assistant designed to:
-
-- Execute terminal commands safely
-- Manage files & directories
-- Monitor system processes
-- Analyze system resources (CPU, Memory, Disk)
-- Automate repetitive tasks
-- Integrate LLM reasoning with shell execution
-
-BenxAI aims to become a full AI-powered Linux control layer capable of managing the entire system environment.
-
-## Technical Stack
-
-### Languages
-Python, Java, C++, JavaScript
-
-### Backend Engineering
-Flask  
-Flask-SocketIO  
-REST APIs  
-Async Processing (concurrent.futures)  
-SQLite / Structured storage
-
-### AI / ML
-Groq API  
-LangChain  
-LlamaIndex  
-ChromaDB  
-Vector Embeddings  
-TensorFlow  
-Scikit-Learn  
-NumPy / Pandas  
-
-### Frontend Engineering
-React  
-Tailwind CSS  
-Dynamic UI Rendering  
-WebSocket-based real-time updates  
+- 🧠 Building autonomous AI systems  
+- 🐧 Engineering custom Linux environments  
+- ⚡ Developing real-time AI applications (RAG + streaming)  
+- 🔬 Exploring system-level AI integration  
 
 ---
 
-## Systems & OS Experience
+# 🧩 Core Projects
 
-### Arch Linux
+## 🖥️ BenxOS — AI-Ready Custom Linux Environment
+🔗 https://github.com/NateshKannaR/BenX-OS
 
-- Manual installation & partitioning
-- pacman & AUR management
-- Cache control & dependency debugging
-- Kernel-level troubleshooting
-- Custom terminal environments
-- System optimization & lightweight setups
+A fully customized Arch-based Linux system engineered for **performance, control, and AI development**.
 
-### BlackArch / Security Environments
+### Highlights:
+- ⚙️ Manual Arch installation & deep system control  
+- 📦 pacman + AUR optimized workflow  
+- 🧠 AI development–focused environment  
+- 🛠 Kernel-level debugging & tuning  
+- 💻 Minimal, lightweight, dev-first architecture  
 
-- Security tool exploration
-- Network scanning fundamentals
-- Linux privilege & process management
-- Package-level debugging
-
-### Linux CLI Proficiency
-
-- Shell scripting
-- Process monitoring
-- System resource analysis
-- Service management
+> Not just a Linux setup — a **controlled experimental OS for AI systems**
 
 ---
 
-## Core Focus Areas
+## 🤖 BenxAI — AI System Control Layer
+🔗 https://github.com/NateshKannaR/BenX-AI
 
-- AI System Architecture
-- Real-time LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases & Semantic Search
-- Linux System Customization
-- Performance-Optimized Backends
+An AI-powered Linux assistant that bridges **LLMs with system execution**.
+
+### Capabilities:
+- 🧠 Natural language → terminal execution  
+- 📂 File & directory management  
+- 📊 System monitoring (CPU, Memory, Disk)  
+- ⚡ Task automation  
+- 🔌 LLM + shell integration  
+
+> Goal: Build a **fully autonomous AI system operator**
 
 ---
 
-## GitHub Stats
+## 📈 Stock Prediction System
+🔗 https://github.com/NateshKannaR/stock_prediction
+
+AI-based stock analysis and prediction using ML + sentiment insights.
+
+### Features:
+- 📊 Data preprocessing & feature engineering  
+- 🤖 ML models (Scikit-learn / TensorFlow)  
+- 📈 Predictive analytics  
+- 🧠 Financial data experimentation  
+
+---
+
+## 🌍 Travel Platform (Full Stack)
+🔗 https://github.com/NateshKannaR/travel
+
+A dynamic web platform focused on **UI + backend integration**.
+
+### Highlights:
+- ⚛️ React-based frontend  
+- 🎨 Tailwind CSS UI  
+- 🔗 Backend integration  
+- ⚡ Interactive user experience  
+
+---
+
+# 🧠 Tech Stack
+
+## 💻 Languages
+`Python` `Java` `C++` `JavaScript`
+
+## ⚙️ Backend
+- Flask  
+- Flask-SocketIO  
+- REST APIs  
+- Async Processing  
+- SQLite  
+
+## 🤖 AI / ML
+- Groq API  
+- LangChain  
+- LlamaIndex  
+- ChromaDB  
+- RAG Pipelines  
+- TensorFlow  
+- Scikit-learn  
+
+## 🎨 Frontend
+- React  
+- Tailwind CSS  
+- WebSockets (real-time UI)  
+
+---
+
+# 🐧 Systems Expertise
+
+## Arch Linux
+- Manual installation & partitioning  
+- Package management (pacman + AUR)  
+- Kernel debugging  
+- Performance tuning  
+
+## Security & Low-Level
+- BlackArch tools  
+- Network fundamentals  
+- Process & privilege management  
+
+## CLI Engineering
+- Shell scripting  
+- System monitoring  
+- Automation workflows  
+
+---
+
+# 🎯 Focus Areas
+
+- AI System Architecture  
+- Agentic AI Systems  
+- Real-time LLM Applications  
+- RAG + Vector Search  
+- Linux System Engineering  
+- High-performance Backends  
+
+---
+
+# 🌐 Portfolio
+
+🔗 https://portfolio-six-mu-u59lhixvp3.vercel.app/
+
+Explore my complete work, projects, and experiments.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NateshKannaR&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -112,8 +148,14 @@ WebSocket-based real-time updates
 
 ---
 
-## Connect
+# 🤝 Connect
 
-LinkedIn: https://www.linkedin.com/in/natesh-kanna-r-a97170276  
-GitHub: https://github.com/NateshKannaR  
-Email: nateshnkraja@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/natesh-kanna-r-a97170276  
+- 🧑‍💻 GitHub: https://github.com/NateshKannaR  
+- 📧 Email: nateshnkraja@gmail.com  
+
+---
+
+# ⚡ Philosophy
+
+> “Don’t just use AI — build systems that *control environments using AI*.”
