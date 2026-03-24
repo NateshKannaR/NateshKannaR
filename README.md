@@ -27,56 +27,17 @@
 
 ## > whoami
 
+```bash
 AI Systems Engineer focused on production-grade systems
 combining low-level OS control with LLM-driven intelligence.
 
 Currently building:
 BenX — AI assistant with shell execution,
 RAG memory, and Linux system control.
-> ls ./projects
-BenX AI
+
 capabilities = [
     "natural_language -> shell_execution",
     "file_system + process_management",
     "RAG memory + LLM reasoning",
     "GTK4 UI + real-time monitoring"
 ]
-BenX OS
-features=(
-  "manual_kernel_config"
-  "optimized_pacman_aur"
-  "ai_dev_first_architecture"
-  "kernel_level_debugging"
-)
-Stock Prediction
-pipeline = {
-    "preprocessing": "feature_engineering",
-    "models": ["scikit-learn", "tensorflow"],
-    "output": "predictive_signals"
-}
-Travel Platform
-stack = {
-  frontend: "React + Tailwind CSS",
-  backend: "REST API",
-  features: ["dynamic_rendering", "websockets"]
-}
-> cat tech_stack.json
-{
-  "languages": ["Python", "Java", "C++", "JavaScript"],
-  "ai_ml": ["LangChain", "ChromaDB", "TensorFlow", "Groq"],
-  "backend": ["Flask", "SocketIO", "SQLite"],
-  "frontend": ["React", "Tailwind", "GTK4"],
-  "systems": ["Arch Linux", "Bash"]
-}
-> htop --focus
-AI System Architecture     [████████████░░░░░░░] 65%
-Real-time LLM Apps        [██████████████░░░░░] 70%
-RAG Pipelines             [████████████████░░░] 80%
-Linux Engineering         [███████████████████] 95%
-> stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NateshKannaR&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=NateshKannaR&theme=tokyonight&hide_border=true" /> </p>
-> ping --contact
-Portfolio : https://portfolio-six-mu-u59lhixvp3.vercel.app/
-LinkedIn  : https://www.linkedin.com/in/natesh-kanna-r-a97170276
-GitHub    : https://github.com/NateshKannaR
-Email     : nateshnkraja@gmail.com
