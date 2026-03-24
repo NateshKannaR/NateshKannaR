@@ -1,161 +1,101 @@
-# 🚀 Natesh Kanna R
+# Natesh Kanna R
 
-### AI Systems Engineer | Linux Builder | Real-Time LLM Architect
-
-I design and build **AI-powered systems from scratch** — combining  
-low-level OS control with high-level LLM intelligence.
-
-- 🧠 Building autonomous AI systems  
-- 🐧 Engineering custom Linux environments  
-- ⚡ Developing real-time AI applications (RAG + streaming)  
-- 🔬 Exploring system-level AI integration  
+AI Systems Engineer focused on building production-grade systems that combine  
+low-level OS control with LLM-driven intelligence.
 
 ---
 
-# 🧩 Core Projects
+## Work
 
-## 🖥️ BenxOS — AI-Ready Custom Linux Environment
-🔗 https://github.com/NateshKannaR/BenX-OS
+### BenxOS  
+https://github.com/NateshKannaR/BenX-OS  
 
-A fully customized Arch-based Linux system engineered for **performance, control, and AI development**.
+Custom Arch-based Linux environment designed for controlled system behavior, performance tuning, and AI development workflows.
 
-### Highlights:
-- ⚙️ Manual Arch installation & deep system control  
-- 📦 pacman + AUR optimized workflow  
-- 🧠 AI development–focused environment  
-- 🛠 Kernel-level debugging & tuning  
-- 💻 Minimal, lightweight, dev-first architecture  
-
-> Not just a Linux setup — a **controlled experimental OS for AI systems**
+- Manual system configuration and package control  
+- Optimized pacman + AUR environment  
+- Kernel-level debugging and system tuning  
+- Lightweight, development-first architecture  
 
 ---
 
-## 🤖 BenxAI — AI System Control Layer
-🔗 https://github.com/NateshKannaR/BenX-AI
+### BenxAI  
+https://github.com/NateshKannaR/BenX-AI  
 
-An AI-powered Linux assistant that bridges **LLMs with system execution**.
+AI-powered system assistant integrating language models with direct shell execution.
 
-### Capabilities:
-- 🧠 Natural language → terminal execution  
-- 📂 File & directory management  
-- 📊 System monitoring (CPU, Memory, Disk)  
-- ⚡ Task automation  
-- 🔌 LLM + shell integration  
-
-> Goal: Build a **fully autonomous AI system operator**
+- Natural language to command execution  
+- File system and process management  
+- System resource monitoring  
+- Task automation with LLM reasoning  
 
 ---
 
-## 📈 Stock Prediction System
-🔗 https://github.com/NateshKannaR/stock_prediction
+### Stock Prediction  
+https://github.com/NateshKannaR/stock_prediction  
 
-AI-based stock analysis and prediction using ML + sentiment insights.
+Machine learning-based financial data analysis and prediction.
 
-### Features:
-- 📊 Data preprocessing & feature engineering  
-- 🤖 ML models (Scikit-learn / TensorFlow)  
-- 📈 Predictive analytics  
-- 🧠 Financial data experimentation  
+- Data preprocessing and feature engineering  
+- Model development using Scikit-learn / TensorFlow  
+- Experimental predictive pipelines  
 
 ---
 
-## 🌍 Travel Platform (Full Stack)
-🔗 https://github.com/NateshKannaR/travel
+### Travel Platform  
+https://github.com/NateshKannaR/travel  
 
-A dynamic web platform focused on **UI + backend integration**.
+Full-stack web application focused on frontend-backend integration.
 
-### Highlights:
-- ⚛️ React-based frontend  
-- 🎨 Tailwind CSS UI  
-- 🔗 Backend integration  
-- ⚡ Interactive user experience  
+- React-based UI  
+- Tailwind CSS styling  
+- Backend connectivity and dynamic rendering  
 
 ---
 
-# 🧠 Tech Stack
+## Technical Stack
 
-## 💻 Languages
-`Python` `Java` `C++` `JavaScript`
+**Languages**  
+Python, Java, C++, JavaScript  
 
-## ⚙️ Backend
-- Flask  
-- Flask-SocketIO  
-- REST APIs  
-- Async Processing  
-- SQLite  
+**Backend**  
+Flask, Flask-SocketIO, REST APIs, Async Processing, SQLite  
 
-## 🤖 AI / ML
-- Groq API  
-- LangChain  
-- LlamaIndex  
-- ChromaDB  
-- RAG Pipelines  
-- TensorFlow  
-- Scikit-learn  
+**AI / ML**  
+LangChain, LlamaIndex, ChromaDB, RAG pipelines, TensorFlow, Scikit-learn  
 
-## 🎨 Frontend
-- React  
-- Tailwind CSS  
-- WebSockets (real-time UI)  
+**Frontend**  
+React, Tailwind CSS, WebSockets  
 
 ---
 
-# 🐧 Systems Expertise
+## Systems
 
-## Arch Linux
-- Manual installation & partitioning  
-- Package management (pacman + AUR)  
-- Kernel debugging  
-- Performance tuning  
-
-## Security & Low-Level
-- BlackArch tools  
-- Network fundamentals  
-- Process & privilege management  
-
-## CLI Engineering
-- Shell scripting  
-- System monitoring  
-- Automation workflows  
+- Arch Linux (manual setup, package management, debugging)  
+- Linux system optimization and CLI workflows  
+- Process management and automation  
 
 ---
 
-# 🎯 Focus Areas
+## Focus
 
-- AI System Architecture  
-- Agentic AI Systems  
-- Real-time LLM Applications  
-- RAG + Vector Search  
-- Linux System Engineering  
-- High-performance Backends  
+- AI system architecture  
+- Real-time LLM applications  
+- Retrieval-augmented generation (RAG)  
+- Linux system engineering  
 
 ---
 
-# 🌐 Portfolio
+## Links
 
-🔗 https://portfolio-six-mu-u59lhixvp3.vercel.app/
+Portfolio:  
+https://portfolio-six-mu-u59lhixvp3.vercel.app/
 
-Explore my complete work, projects, and experiments.
+LinkedIn:  
+https://www.linkedin.com/in/natesh-kanna-r-a97170276  
 
----
+GitHub:  
+https://github.com/NateshKannaR  
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NateshKannaR&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=NateshKannaR&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🤝 Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/natesh-kanna-r-a97170276  
-- 🧑‍💻 GitHub: https://github.com/NateshKannaR  
-- 📧 Email: nateshnkraja@gmail.com  
-
----
-
-# ⚡ Philosophy
-
-> “Don’t just use AI — build systems that *control environments using AI*.”
+Email:  
+nateshnkraja@gmail.com
