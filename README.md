@@ -105,17 +105,3 @@ Email:
 nateshnkraja@gmail.com  
 
 ---
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NateshKannaR&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NateshKannaR/NateshKannaR/output/github-contribution-grid-snake.svg" />
-</p>
