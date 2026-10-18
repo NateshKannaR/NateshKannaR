@@ -1,124 +1,238 @@
+# Natesh Kanna R
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58A6FF&height=200&section=header&text=Natesh%20Kanna%20R&fontSize=50&fontColor=58A6FF&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Linux%20Builder%20%7C%20LLM%20Developer&descAlignY=58&descSize=16&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:161B22,100:388BFD&text=Natesh%20Kanna%20R&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Linux%20Systems%20Builder%20%7C%20Full-Stack%20Developer&descSize=15&descAlignY=58&descColor=C9D1D9" width="100%" alt="Natesh Kanna R profile banner"/>
+
+<a href="https://nateshkannar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/NateshKannaR"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/natesh-kanna-r-a97170276"><img src="https://img.shields.io/badge/LinkedIn-Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+AI+systems+that+control+Linux+natively;Real-time+LLM+%2B+OS-level+integration;RAG+pipelines+%7C+Shell+execution+%7C+GTK4+UIs" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+systems;Exploring+LLMs+and+Agentic+AI;Engineering+Linux+and+Operating+Systems;Turning+ideas+into+working+software" alt="Animated introduction"/>
 
 </div>
 
 ---
 
-<div align="center">
+## `$ whoami`
 
-<img src="https://komarev.com/ghpvc/?username=NateshKannaR&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/NateshKannaR?color=58A6FF&style=flat-square&logo=github&label=FOLLOWERS" />
-<a href="https://portfolio-six-mu-u59lhixvp3.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-58A6FF?style=flat-square&logo=vercel" />
-</a>
-<a href="https://www.linkedin.com/in/natesh-kanna-r-a97170276">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin" />
-</a>
+I'm a Computer Science and Engineering student and developer interested in building intelligent software at the intersection of **AI, operating systems, and full-stack engineering**.
 
-</div>
+I enjoy working close to the system layer, experimenting with LLMs, building retrieval-augmented generation pipelines, and developing applications that solve real-world problems.
 
----
-
-## > whoami
+- Building AI assistants with Linux system integration.
+- Exploring LLMs, RAG, local inference, and agentic AI.
+- Developing operating-system concepts and low-level components.
+- Creating web applications, intelligent dashboards, and privacy-focused AI tools.
+- Learning by building, debugging, and shipping projects.
 
 ```bash
-AI Systems Engineer focused on production-grade systems
-combining low-level OS control with LLM-driven intelligence.
-
-Currently building:
-BenX — AI assistant with shell execution,
-RAG memory, and Linux system control.
-```
-
----
-
-## > ls ./projects
-
-### BenX AI
-```python
-capabilities = [
-    "natural_language -> shell_execution",
-    "file_system + process_management",
-    "RAG memory + LLM reasoning",
-    "GTK4 UI + real-time monitoring"
+focus = [
+    "Artificial Intelligence",
+    "LLM Applications & RAG",
+    "Linux Systems Engineering",
+    "Operating System Development",
+    "Full-Stack Development"
 ]
 ```
 
-### BenX OS
-```bash
-features=(
-  "manual_kernel_config"
-  "optimized_pacman_aur"
-  "ai_dev_first_architecture"
-  "kernel_level_debugging"
-)
-```
+---
 
-### Stock Prediction
-```python
-pipeline = {
-    "preprocessing": "feature_engineering",
-    "models": ["scikit-learn", "tensorflow"],
-    "output": "predictive_signals"
-}
-```
+## `$ ls ./featured-projects`
 
-### Travel Platform
-```javascript
-stack = {
-  frontend: "React + Tailwind CSS",
-  backend: "REST API",
-  features: ["dynamic_rendering", "websockets"]
-}
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 BenX AI
+
+**An AI assistant for Linux**
+
+An AI-powered assistant designed to connect natural-language interaction with Linux system operations.
+
+- LLM-powered assistance
+- Shell command integration
+- RAG-based knowledge retrieval
+- Linux system interaction
+- GTK4 desktop interface
+
+**Stack:** Python · Linux · LLMs · RAG · GTK4
+
+[View Repository →](https://github.com/NateshKannaR/BenX-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ BenX OS
+
+**Exploring operating-system development**
+
+A custom OS development project focused on understanding the fundamentals of booting, protected mode, and kernel development.
+
+- Bootloader development
+- x86 protected mode
+- GDT and IDT fundamentals
+- Freestanding C and assembly
+- QEMU-based testing
+
+**Stack:** C · NASM · x86 · QEMU
+
+[View Repository →](https://github.com/NateshKannaR/BenX-OS)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ VisionVault
+
+**Privacy-focused visual AI**
+
+An exploration of privacy-preserving browser agents that process visual information locally and minimize sensitive data sent to external services.
+
+- Browser-based visual perception
+- Sensitive-information redaction
+- ONNX Runtime Web
+- Local inference and privacy
+
+**Stack:** JavaScript · Browser APIs · ONNX Runtime Web
+
+[View Repository →](https://github.com/NateshKannaR/VisionVault)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Stock Prediction System
+
+**Machine learning for market analysis**
+
+An AI and data-driven project exploring stock prediction, feature engineering, and predictive signals.
+
+- Data preprocessing
+- Machine-learning models
+- Market analysis
+- Predictive signal generation
+
+**Stack:** Python · TensorFlow · scikit-learn
+
+[View Repository →](https://github.com/NateshKannaR/stock_prediction)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧳 Empire Tourism
+
+**A travel and tourism web platform**
+
+A web development project focused on presenting travel information and building an engaging online tourism experience.
+
+**Stack:** Web technologies · Frontend development
+
+[View Repository →](https://github.com/NateshKannaR/Empire_Tourism)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ BenX Quant
+
+**Quantitative and financial technology**
+
+A project exploring software development for quantitative and market-related applications.
+
+**Stack:** Python · Data analysis · Financial technology
+
+[View Repository →](https://github.com/NateshKannaR/BenX_Quant)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**More projects and experiments**
+
+<a href="https://github.com/NateshKannaR?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
+
+</div>
+
+---
+
+## `$ cat tech-stack.json`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,bash&theme=dark" alt="Programming languages"/>
+
+### AI / Machine Learning
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-0A7EA4?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/ChromaDB-5B4BDB?style=flat-square" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Ollama-111111?style=flat-square" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/>
+
+### Backend / Web
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,react,tailwind,sqlite,git,github&theme=dark" alt="Backend and web technologies"/>
+
+### Systems / Tools
+
+<img src="https://skillicons.dev/icons?i=linux,arch,docker,cmake,githubactions,vscode&theme=dark" alt="Systems and development tools"/>
+
+</div>
+
+---
+
+## `$ ./github-activity.sh`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NateshKannaR&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateshKannaR&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most-used languages"/>
+
+<img src="https://streak-stats.demolab.com?user=NateshKannaR&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9B50&currStreakLabel=58A6FF" alt="GitHub contribution streak" width="70%"/>
+
+</div>
+
+---
+
+## `$ git log --oneline --future`
+
+```text
+01  Build practical AI systems
+02  Explore agentic AI and intelligent automation
+03  Develop deeper Linux and OS engineering skills
+04  Create privacy-preserving AI applications
+05  Turn experimental projects into production-ready software
 ```
 
 ---
 
-## > cat tech_stack.json
+## `$ ping --contact`
 
-```json
-{
-  "languages": ["Python", "Java", "C++", "JavaScript"],
-  "ai_ml": ["LangChain", "ChromaDB", "TensorFlow", "Groq"],
-  "backend": ["Flask", "SocketIO", "SQLite"],
-  "frontend": ["React", "Tailwind", "GTK4"],
-  "systems": ["Arch Linux", "Bash"]
-}
-```
+<div align="center">
 
----
+Interested in AI systems, Linux, open-source projects, and software engineering?
 
-## > htop --focus
+Let's connect and build something interesting.
 
-```
-AI System Architecture     [████████████░░░░░░░] 65%
-Real-time LLM Apps        [██████████████░░░░░] 70%
-RAG Pipelines             [████████████████░░░] 80%
-Linux Engineering         [███████████████████] 95%
-```
+<a href="https://nateshkannar.vercel.app/"><img src="https://img.shields.io/badge/Website-nateshkannar.vercel.app-161B22?style=for-the-badge&logo=vercel" alt="Website"/></a>
+<a href="https://www.linkedin.com/in/natesh-kanna-r-a97170276"><img src="https://img.shields.io/badge/LinkedIn-Natesh%20Kanna%20R-0969DA?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://github.com/NateshKannaR"><img src="https://img.shields.io/badge/GitHub-NateshKannaR-161B22?style=for-the-badge&logo=github" alt="GitHub"/></a>
 
----
+<br/>
 
-## > stats
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388BFD,50:161B22,100:0D1117&height=100&section=footer" width="100%" alt="Footer banner"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NateshKannaR&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NateshKannaR&theme=tokyonight&hide_border=true" />
-</p>
+<sub>Designed with curiosity. Built with code. Driven by engineering.</sub>
 
----
-
-## > ping --contact
-
-```bash
-Portfolio : https://portfolio-six-mu-u59lhixvp3.vercel.app/
-LinkedIn  : https://www.linkedin.com/in/natesh-kanna-r-a97170276
-GitHub    : https://github.com/NateshKannaR
-Email     : nateshnkraja@gmail.com
-```
+</div>
