@@ -1,144 +1,108 @@
 # Natesh Kanna R
 
-**AI Systems Engineer · Linux & OS Development · Applied AI**
+**AI / Full Stack Engineer**
 
-I build software at the intersection of intelligent systems and low-level engineering — from LLM-powered Linux assistants to operating-system development and privacy-preserving browser AI.
+I build AI-powered products that connect intelligent agents with real-world systems — from privacy-preserving browser automation and Linux desktop assistants to full-stack platforms and motorcycle ride analytics.
 
 [Portfolio](https://nateshkannar.vercel.app/) · [GitHub](https://github.com/NateshKannaR) · [LinkedIn](https://www.linkedin.com/in/natesh-kanna-r-a97170276) · [Email](mailto:nateshnkraja@gmail.com)
 
 ---
 
-## ENGINEERING FOCUS
+## SELECTED ENGINEERING PROJECTS
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01 / VisionVault
+**Privacy-Preserving Browser AI Agent**
 
-**01 / AI SYSTEMS**
+A Chrome extension that enables a cloud AI agent to browse and interact with websites while sensitive screen content is detected and redacted locally before upload.
 
-LLM applications, retrieval-augmented generation, local inference, and AI agents that interact with real software environments.
+- Local screenshot redaction for text and faces.
+- Tested 55 sensitive regions across 6 pages with zero leaks in that test.
+- Completed tasks on 9 of 10 tested websites.
+- Model fallback across Gemini, Groq, Ollama, and rule-based processing.
 
-</td>
-<td width="50%" valign="top">
+`JavaScript` `Python` `FastAPI` `ONNX Runtime` `WebAssembly` `Chrome Extensions`
 
-**02 / SYSTEMS ENGINEERING**
+[Live Demo](https://isrovisionvault.vercel.app/) · [Source Code](https://github.com/NateshKannaR/VisionVault)
 
-Operating-system fundamentals, bootloaders, kernel development, Linux internals, and shell-based automation.
+### 02 / BenX AI
+**Cross-Platform AI Desktop Assistant**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+An AI assistant built around Linux desktop integration, combining language models with system controls, a desktop dashboard, and a companion mobile application.
 
-**03 / PRIVACY ENGINEERING**
+- Window, hardware, screenshot, and clipboard workflows.
+- Groq and OpenRouter model integration.
+- GTK4 / Libadwaita desktop interface with live system monitoring.
+- Flutter mobile companion synchronized through MongoDB.
 
-Browser-based visual perception, local inference, and approaches to minimizing sensitive data exposure.
+`Python` `GTK4` `Libadwaita` `Flutter` `MongoDB` `LLMs`
 
-</td>
-<td width="50%" valign="top">
+[Live Website](https://benxlinux.vercel.app/) · [Source Code](https://github.com/NateshKannaR/BenX-AI)
 
-**04 / SOFTWARE DEVELOPMENT**
+### 03 / Nira — Farm2Door
+**Direct Farm-to-Buyer Marketplace**
 
-Backend APIs, full-stack applications, machine-learning pipelines, and developer tooling.
+A marketplace connecting farmers directly with buyers, designed around commission-free selling, role-based workflows, and verified order handoffs.
 
-</td>
-</tr>
-</table>
+- Six role-based portals.
+- Two-OTP pickup and delivery verification.
+- AI-assisted pricing, quality grading, and spoilage-risk analysis.
+- Route planning, bilingual support, and natural-language crop search.
+- Escrow and cash-on-delivery workflows, with bank payouts simulated.
 
----
+`TypeScript` `Next.js 14` `Tailwind CSS` `SQLite` `MongoDB Atlas`
 
-## SELECTED PROJECTS
+[Live Demo](https://nirafarm2door.vercel.app/) · [Source Code](https://github.com/NateshKannaR/Empire_Tourism)
 
-### 01. BenX AI
-**Linux-native AI assistant**
+### 04 / Rhodyy
+**Motorcycle Ride Intelligence**
 
-An AI assistant project exploring the integration of language models with Linux system operations, knowledge retrieval, and a desktop interface.
+A motorcycle-focused riding and travel application designed to turn a ride into useful telemetry, helping riders understand their journeys beyond simple navigation.
 
-- Natural-language interaction with system commands
-- Retrieval-augmented generation and contextual memory
-- File and process management workflows
-- GTK4-based desktop interface
+- Distance travelled and ride duration.
+- Speed tracking and ride statistics.
+- Lean-angle and inclination visualization.
+- Location-aware ride history.
+- A riding-focused interface for reviewing trips.
 
-`Python` `Linux` `LLMs` `RAG` `GTK4`
+`Mobile Development` `GPS` `Motion Sensors` `Ride Analytics`
 
-[Source code →](https://github.com/NateshKannaR/BenX-AI)
+[Live App](https://rhodyy.vercel.app/)
 
-### 02. BenX OS
-**Operating-system development from the ground up**
+### 05 / Empire Tourism
+**Travel & Tourism Platform**
 
-A low-level systems project exploring the boot process and the foundations of a custom x86 operating system.
+A travel platform focused on presenting destinations and travel experiences through an accessible web interface.
 
-- Bootloader and assembly development
-- Transition to 32-bit protected mode
-- Global and interrupt descriptor tables
-- Freestanding kernel development and QEMU testing
+- Travel-focused user experience.
+- Destination and tourism information.
+- Responsive web interface.
+- Full-stack development and deployment.
 
-`C` `x86 Assembly` `NASM` `GCC` `QEMU`
+`React` `Tailwind CSS` `REST APIs` `Web Development`
 
-[Source code →](https://github.com/NateshKannaR/BenX-OS)
-
-### 03. VisionVault
-**Privacy-preserving visual AI**
-
-A browser-based visual perception project focused on processing screen content locally and reducing the exposure of sensitive information when interacting with cloud AI.
-
-- On-device visual processing
-- Sensitive-field detection and redaction
-- Browser-based inference with ONNX Runtime Web
-- Privacy-aware AI interaction workflows
-
-`JavaScript` `Browser APIs` `ONNX Runtime Web` `Computer Vision`
-
-[Source code →](https://github.com/NateshKannaR/VisionVault)
-
-### 04. Stock Prediction System
-**Machine learning for financial data**
-
-A machine-learning project focused on data preprocessing, feature engineering, and predictive modeling for stock-market analysis.
-
-- Financial time-series preprocessing
-- Model experimentation
-- Predictive signal generation
-- Data-driven market analysis
-
-`Python` `TensorFlow` `scikit-learn`
-
-[Source code →](https://github.com/NateshKannaR/stock_prediction)
-
-### 05. Empire Tourism
-**Travel platform development**
-
-A web project focused on delivering travel-related information through a user-facing tourism platform.
-
-`JavaScript` `React` `Web Development`
-
-[Source code →](https://github.com/NateshKannaR/Empire_Tourism) · [Live website →](https://empiretourism.vercel.app/)
+[Live Website](https://empiretourism.vercel.vercel.app/) · [Repository](https://github.com/NateshKannaR/Empire_Tourism)
 
 ---
 
 ## TECHNOLOGY
 
-<div align="left">
-
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,bash&theme=dark" alt="Python, Java, C++, JavaScript and Bash"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,bash&theme=dark" alt="Programming languages"/>
 
 **AI & Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="TensorFlow and PyTorch"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="Machine learning tools"/>
 
-**Web & Backend**
+`LLM Orchestration` `RAG` `ONNX Runtime` `Tesseract OCR` `Ollama` `Groq`
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,flask,fastapi,sqlite&theme=dark" alt="React, Tailwind CSS, Flask, FastAPI and SQLite"/>
+**Web & Application Development**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,flask,flutter,mongodb,sqlite&theme=dark" alt="Web and application technologies"/>
 
 **Systems & Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=linux,arch,docker,git,github,cmake&theme=dark" alt="Linux, Arch Linux, Docker, Git, GitHub and CMake"/>
-
-</div>
-
-Additional tools and technologies: ChromaDB, Groq, Ollama, ONNX Runtime Web, NASM, QEMU, and GTK4.
+<img src="https://skillicons.dev/icons?i=linux,arch,git,github,docker,cmake&theme=dark" alt="Systems and development tools"/>
 
 ---
 
@@ -146,31 +110,37 @@ Additional tools and technologies: ChromaDB, Groq, Ollama, ONNX Runtime Web, NAS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NateshKannaR&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub contribution statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NateshKannaR&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateshKannaR&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most-used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateshKannaR&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most-used languages"/>
 
 </div>
 
-[Explore all repositories →](https://github.com/NateshKannaR?tab=repositories)
+---
+
+## PROBLEM SOLVING & ACHIEVEMENTS
+
+- Solved 200+ problems on LeetCode.
+- Participated in the OOSC 4.0 Hackathon at IIIT Allahabad.
+- Participated in the Ascent Quest 2026 HackerRank coding contest.
+- Integrated AI, backend engineering, and systems development across independent projects.
 
 ---
 
-## CURRENT DIRECTION
+## EDUCATION
 
-- Building more capable AI assistants with system-level integration.
-- Deepening my understanding of operating systems and computer architecture.
-- Exploring efficient local inference and privacy-preserving AI.
-- Turning experimental implementations into reliable, documented software.
+**Integrated M.Tech — Computer Science and Engineering**
+
+Sri Krishna College of Engineering and Technology, Coimbatore
+
+Expected graduation: 2028 · CGPA: 7.8 / 10
 
 ---
 
 <div align="center">
 
-**Interested in AI systems, Linux engineering, or applied machine learning?**
+**Building intelligent systems. Engineering beyond the interface.**
 
-[Portfolio](https://nateshkannar.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/natesh-kanna-r-a97170276)
-
-<sub>Engineering intelligent systems. Understanding them from the ground up.</sub>
+[Portfolio](https://nateshkannar.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/natesh-kanna-r-a97170276) · [GitHub](https://github.com/NateshKannaR)
 
 </div>
